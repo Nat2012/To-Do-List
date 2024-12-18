@@ -1,0 +1,45 @@
+header{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+body{
+    background-color: aliceblue;
+}
+
+
+.container-general{
+    display: block;
+    background-color: white;
+    border: 1px black solid;
+    width: 500px;
+    text-align: center;
+    margin: 10% 32%;
+}
+
+#instruction{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    border: 1px black solid;
+}
+
+#add{
+    border-radius: 40px;
+    background-color: greenyellow;
+}
+
+#reset{
+    border-radius: 40px;
+    background-color: red;
+}
+
+To-Do{
+    color: black;
+}
